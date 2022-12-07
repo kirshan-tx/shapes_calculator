@@ -1,0 +1,10 @@
+
+[x] Validation of input received by your application
+[x] Exception handling to deal with runtime errors.
+[x] An intuitive GUI for your application (you are free to use any GUI framework).
+[x] Code organized with the help of classes or modules.
+[N/A] Data stored in files/databases (for projects that will need to process/store data)
+[x] Proper code documentation (descriptive variable names, docstrings for functions/methods, use of type hinting, and descriptive commit messages).
+
+
+ 
